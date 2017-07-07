@@ -1,0 +1,12 @@
+G:\calismalar\otoparkUcretHesaplama\otoparkUcretHesaplama\obj\Debug\otoparkUcretHesaplama.csproj.GenerateResource.Cache
+G:\calismalar\otoparkUcretHesaplama\otoparkUcretHesaplama\bin\Debug\ParkingFeeCalculation.exe.config
+G:\calismalar\otoparkUcretHesaplama\otoparkUcretHesaplama\bin\Debug\ParkingFeeCalculation.exe.manifest
+G:\calismalar\otoparkUcretHesaplama\otoparkUcretHesaplama\bin\Debug\ParkingFeeCalculation.application
+G:\calismalar\otoparkUcretHesaplama\otoparkUcretHesaplama\bin\Debug\ParkingFeeCalculation.exe
+G:\calismalar\otoparkUcretHesaplama\otoparkUcretHesaplama\bin\Debug\ParkingFeeCalculation.pdb
+G:\calismalar\otoparkUcretHesaplama\otoparkUcretHesaplama\obj\Debug\ParkingFeeCalculation.Form1.resources
+G:\calismalar\otoparkUcretHesaplama\otoparkUcretHesaplama\obj\Debug\ParkingFeeCalculation.Properties.Resources.resources
+G:\calismalar\otoparkUcretHesaplama\otoparkUcretHesaplama\obj\Debug\ParkingFeeCalculation.exe.manifest
+G:\calismalar\otoparkUcretHesaplama\otoparkUcretHesaplama\obj\Debug\ParkingFeeCalculation.application
+G:\calismalar\otoparkUcretHesaplama\otoparkUcretHesaplama\obj\Debug\ParkingFeeCalculation.exe
+G:\calismalar\otoparkUcretHesaplama\otoparkUcretHesaplama\obj\Debug\ParkingFeeCalculation.pdb
